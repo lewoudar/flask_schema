@@ -4,6 +4,8 @@ This is an experiment to validate input and output data in a Flask application u
 It's very much inspired by the [quart-schema](https://quart-schema.readthedocs.io/en/latest/tutorials/quickstart.html)
 project.
 
+It is not a **library**, just a pet project where I take ideas from quart-schemas to use them in a flask project.
+
 ## Installation
 
 You will need **Python 3.11** or higher to run the project and poetry to install it.
