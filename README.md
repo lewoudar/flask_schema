@@ -8,7 +8,7 @@ It is not a **library**, just a pet project where I take ideas from quart-schema
 
 ## Installation
 
-You will need **Python 3.11** or higher to run the project and poetry to install it.
+You will need **Python 3.11** or higher to run the project and [poetry](https://python-poetry.org/docs/) to install it.
 
 ```shell
 $ poetry install
